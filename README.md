@@ -1,4 +1,6 @@
 # Canada Housing Construction Analytics
+<img width="1055" height="590" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/bff92475-1923-4f30-b17c-dc57156ccf24" />
+
 
 ## Project Overview
 
