@@ -44,8 +44,3 @@ This project analyzes housing construction trends across Canadian provinces usin
 - Dashboard Screenshots
 - Dataset
 
-## Author
-
-Sahreen Rafiq
-Bachelor of Analytics & Data Management (Honours)
-Mohawk College
